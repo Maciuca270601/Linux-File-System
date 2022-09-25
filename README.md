@@ -19,7 +19,7 @@ Libraries used for the implementation:
 	This is an idea of implementing a file system using simply 
 linked lists where instead of a list, there is a root directory called
 "home" which points to different types of nodes.
-	In this specific project nodes could be either files or directories.
+In this specific project nodes could be either files or directories.
 
 ### Structure
  
