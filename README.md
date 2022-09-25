@@ -16,7 +16,7 @@ Libraries used for the implementation:
 
 ## Implementation
 
-	This is an idea of implementing a file system using simply 
+	This is an idea of implementing a file system using simply
 linked lists where instead of a list, there is a root directory called
 "home" which points to different types of nodes.
 In this specific project nodes could be either files or directories.
